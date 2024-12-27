@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+//import React, { useState } from 'react';
+import { useState } from 'react';
 import TurkeyMap, { CityType } from 'turkey-map-react';
 
 interface ExtendedCityType extends CityType {
